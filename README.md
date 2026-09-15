@@ -29,7 +29,7 @@ Source code is maintained privately in accordance with university academic-integ
 
 ## Demo
 
-![Project demonstration](Images/JobOfferApp_screenoverview.png)
+![Project demonstration](JobOfferApp_screenoverview.png)
 
 
 
