@@ -24,7 +24,7 @@
 Source code is maintained privately in accordance with university academic integrity requirements.
 
 ## Notes
-- **Potatofryz Contribution:** *`Planning, Design, GUI development, App Integration, Memory Installation, Testing`*
+- **Potatofryz Contribution:** *`Planning, Design, GUI development, App Integration, Persistent Memory, Testing`*
 
 
 ## Demo
