@@ -7,7 +7,7 @@
 ![Status](https://img.shields.io/badge/status-complete-2EA44F)
 </div>
 
-### A job offer app created in Android Studio using Java by 4 team members, comparing job elements such as pay, benefits, cost of living.
+### A job offer app created in Android Studio using Java by 4 team members, comparing job elements such as pay, benefits, cost of living.  A scoring system shows the most desirable job, with the user ranking the most sought-after characteristics from 1 (least wanted) to 9 (most wanted) in areas of compensation and benefits.
 <div align="left">
 
 ## Software Development Cycle: 
